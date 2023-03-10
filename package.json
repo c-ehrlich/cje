@@ -1,0 +1,13 @@
+{
+  "name": "cje",
+  "version": "1.0.4",
+  "description": "Information about Christopher Ehrlich",
+  "bin": {
+    "cje": "./bin/card.js"
+  },
+  "author": "Christopher Ehrlich",
+  "license": "MIT",
+  "dependencies": {
+    "gradient-string": "^2.0.2"
+  }
+}
