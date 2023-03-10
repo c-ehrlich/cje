@@ -1,9 +1,12 @@
 {
   "name": "cje",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Information about Christopher Ehrlich",
   "bin": {
     "cje": "./bin/card.js"
+  },
+  "scripts": {
+    "publish": "npm publish --access public"
   },
   "repository": {
     "type": "git",
