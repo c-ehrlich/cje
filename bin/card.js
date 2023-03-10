@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 // 👆 Used to tell Node.js that this is a CLI tool
 
+// inspired by `npx mxstbr`
+
 const gradient = require("gradient-string");
 
 const card = `

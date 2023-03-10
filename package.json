@@ -1,9 +1,13 @@
 {
   "name": "cje",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Information about Christopher Ehrlich",
   "bin": {
     "cje": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c-ehrlich/cje.git"
   },
   "author": "Christopher Ehrlich",
   "license": "MIT",
